@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a motivated and proactive Full Stack Developer with a strong foundation in front-end and back-end technologies[cite: 8]. [cite_start]I specialize in building responsive web applications using PHP, React, and .NET, with a strong focus on clean code.
+I am a motivated and proactive Full Stack Developer with a strong foundation in front-end and back-end technologies. I specialize in building responsive web applications using PHP, React, and .NET, with a strong focus on clean code.
 
 
 ## 🌐 Socials:
