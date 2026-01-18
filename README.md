@@ -1,5 +1,5 @@
 # 💫 About Me:
-[cite_start]I am a motivated Full Stack Developer proficient in front-end and back-end technologies[cite: 8]. [cite_start]I specialize in building responsive web applications using PHP, React, and .NET, with a strong focus on clean code and UI/UX design[cite: 9, 11].
+I am a motivated and proactive Full Stack Developer with a strong foundation in front-end and back-end technologies[cite: 8]. [cite_start]I specialize in building responsive web applications using PHP, React, and .NET, with a strong focus on clean code.
 
 ## 🌐 Socials:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923178711043)
@@ -30,4 +30,3 @@
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Figma](https://img.shields.io/badge/UI/UX-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
