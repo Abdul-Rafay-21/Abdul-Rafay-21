@@ -1,3 +1,4 @@
+<div align="center">
 
 # 💫 About Me:
 
@@ -78,3 +79,4 @@ I am a motivated and proactive **Full Stack Developer** with a strong foundation
   <img src="https://img.shields.io/badge/github-%23141414.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
+</div>
