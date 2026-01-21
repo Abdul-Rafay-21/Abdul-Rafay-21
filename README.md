@@ -1,9 +1,9 @@
 # 💫 About Me:
 
 <p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=A855F7&background=00000000&lines=Hi,+I'm+Abdul+Rafay;Full+Stack+Developer;PHP+%7C+React+%7C+.NET;Clean+Code+Enthusiast" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Abdul+Rafay;Full+Stack+Developer;PHP+%7C+React+%7C+.NET;Clean+Code+Enthusiast" alt="Typing SVG" />
+</a>
 </p>
 
 I am a motivated and proactive **Full Stack Developer** with a strong foundation in front-end and back-end technologies. I specialize in building responsive web applications using PHP, React, and .NET.
