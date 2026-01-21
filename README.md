@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-<div align="Left">
+<div style="margin-left:40px;">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=25D366&center=true&vCenter=true&width=435&lines=Hi,+I'm+Abdul+Rafay;Full+Stack+Developer;PHP+%7C+React+%7C+.NET;Clean+Code+Enthusiast" alt="Typing SVG" />
 </a>
@@ -15,7 +15,7 @@ I am a motivated and proactive **Full Stack Developer** with a strong foundation
 
 ## 🌐 Socials:
 
-<p">
+<p>
 <a href="https://wa.me/923178711043"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="https://facebook.com/profile.php?id=61555437656014"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://instagram.com/rafay_.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
