@@ -64,35 +64,6 @@ I am a motivated and proactive **Full Stack Developer** with a strong foundation
 
 ---
 
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdul-rafay-469179335&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=496082&text_color=c9d1d9&title_color=496082" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-rafay-469179335&theme=tokyonight&hide_border=true&background=0D1117&ring=496082&fire=496082&currStreakLabel=496082" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rafay-469179335&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=496082&text_color=c9d1d9" alt="Top Languages" width="40%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdul-rafay-469179335&theme=nord&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdul-rafay-469179335/abdul-rafay-469179335/output/snake.svg" alt="Snake Animation" width="100%" />
-</p>
-
----
-
 ### 🔭 Current Focus
 
 - 🔭 I'm currently working on **Full Stack Web Applications**
