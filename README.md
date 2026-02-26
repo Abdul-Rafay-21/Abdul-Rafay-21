@@ -49,7 +49,7 @@ I am a motivated and proactive **Website Developer** with a strong foundation in
 
 ### 🔭 Current Focus
 
-- 🔭 I'm currently working on **Website Web Applications**
+- 🔭 I'm currently working on **Website Applications**
 - 🌱 I'm currently learning **Advanced React & .NET**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **PHP, React, .NET, or WordPress**
