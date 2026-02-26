@@ -2,13 +2,13 @@
 
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=496082&center=false&vCenter=true&width=435&lines=Hi,+I'm+Abdul+Rafay;Full+Stack+Developer;PHP+%7C+.NET;Clean+Code+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=496082&center=false&vCenter=true&width=435&lines=Hi,+I'm+Abdul+Rafay;Web+Developer;PHP+%7C+.NET;Clean+Code+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-I am a motivated and proactive **Full Stack Developer** with a strong foundation in front-end and back-end technologies. I specialize in building responsive web applications using PHP and .NET.
+I am a motivated and proactive **Web Developer** with a strong foundation in front-end and back-end technologies. I specialize in building responsive websites and web applications using PHP and .NET.
 
 ---
 
@@ -25,7 +25,7 @@ I am a motivated and proactive **Full Stack Developer** with a strong foundation
 
 # 💻 Tech Stack:
 
-### 🌐 Front-End
+### 🌐 Front-End Development
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -35,22 +35,26 @@ I am a motivated and proactive **Full Stack Developer** with a strong foundation
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-### ⚙️ Back-End & CMS
+### ⚙️ Back-End Development
 <p align="left">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
 </p>
 
-### 🗄️ Database & Tools
+### 🛠️ CMS & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+### 🗄️ Databases
 <p align="left">
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
@@ -76,12 +80,12 @@ I am a motivated and proactive **Full Stack Developer** with a strong foundation
 
 ---
 
-### 🔭 Current Focus
+### 🎯 Current Focus
 
-- 🔭 I'm currently working on **Full Stack Web Applications**
-- 🌱 I'm currently learning **Advanced .NET & PHP**
+- 🔭 I'm currently working on **Web Development Projects**
+- 🌱 I'm currently learning **Advanced PHP & .NET**
 - 💬 Ask me about **PHP, .NET, WordPress, or Shopify**
-- ⚡ Fun fact: **I turn coffee into code** ☕
+- ⚡ Fun fact: **I turn coffee into websites** ☕
 
 ---
 
@@ -101,10 +105,14 @@ I am a motivated and proactive **Full Stack Developer** with a strong foundation
 </div>
 
 <!-- 
-  Skills included (React removed as requested):
+  Skills included exactly as requested:
   - HTML5, CSS3, JavaScript, Angular, Tailwind, Bootstrap
-  - PHP, C#, .NET, WordPress, Shopify
-  - MySQL, SQL Server, GitHub, Postman, Git
+  - PHP, C#, .NET
+  - WordPress, Shopify, GitHub, Git
+  - MySQL, SQL Server, Postman
+  
+  React removed completely
+  Full Stack changed to Web Developer
   
   All links verified:
   - WhatsApp: https://wa.me/923178711043
@@ -115,7 +123,7 @@ I am a motivated and proactive **Full Stack Developer** with a strong foundation
   Color theme: #496082 (steel blue)
 -->
 
-<!-- BACKGROUND ANIMATION AND SCROLL EFFECTS (HTML PART) -->
+<!-- BACKGROUND ANIMATION AND SCROLL EFFECTS -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/abdul-rafay-469179335/abdul-rafay-469179335/main/assets/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
 </div>
@@ -143,7 +151,7 @@ I am a motivated and proactive **Full Stack Developer** with a strong foundation
     to { transform: translateY(0); opacity: 1; }
   }
   
-  /* Background Animation Elements */
+  /* Background Animation */
   body {
     position: relative;
     overflow-x: hidden;
@@ -218,40 +226,39 @@ I am a motivated and proactive **Full Stack Developer** with a strong foundation
     transform: scale(1.05);
   }
   
-  /* Section animations on scroll */
-  h1, h2, h3, .tech-stack-section, .socials-section {
+  /* Section animations */
+  h1, h2, h3, .tech-stack-section {
     animation: fadeInUp 0.8s ease-out forwards;
   }
   
   /* Stagger children animations */
-  .tech-badge {
+  img[src*="shields.io"] {
     animation: slideIn 0.5s ease-out forwards;
     opacity: 0;
-    animation-delay: calc(var(--i, 0) * 0.1s);
+    transition: transform 0.3s ease, filter 0.3s ease;
   }
   
-  /* Smooth scroll behavior */
+  img[src*="shields.io"]:hover {
+    transform: translateY(-5px);
+    filter: brightness(1.2);
+  }
+  
+  /* Smooth scroll */
   html {
     scroll-behavior: smooth;
   }
   
-  /* Parallax effect on scroll */
+  /* Parallax effect */
   .github-stats {
     transition: transform 0.1s ease-out;
   }
   
-  /* Gradient border animation on hover */
-  .social-icon:hover {
+  /* Pulse on hover for social icons */
+  a img:hover {
     animation: pulse 1s ease-in-out infinite;
-    filter: drop-shadow(0 0 10px rgba(73, 96, 130, 0.5));
   }
   
-  /* Floating animation for profile section */
-  .profile-section {
-    animation: float 6s ease-in-out infinite;
-  }
-  
-  /* Typewriter cursor effect */
+  /* Typing cursor effect */
   .typing-svg {
     border-right: 3px solid #496082;
     animation: blink 0.75s step-end infinite;
@@ -262,27 +269,7 @@ I am a motivated and proactive **Full Stack Developer** with a strong foundation
     50% { border-color: #496082; }
   }
   
-  /* Progress bar animation */
-  .skill-progress {
-    width: 0;
-    animation: progress 1.5s ease-out forwards;
-  }
-  
-  @keyframes progress {
-    to { width: var(--progress); }
-  }
-  
-  /* Card flip on hover */
-  .stats-card {
-    transition: transform 0.6s;
-    transform-style: preserve-3d;
-  }
-  
-  .stats-card:hover {
-    transform: rotateY(10deg) rotateX(5deg);
-  }
-  
-  /* Matrix rain effect in background (subtle) */
+  /* Matrix rain effect */
   .matrix-bg {
     position: fixed;
     top: 0;
@@ -298,6 +285,16 @@ I am a motivated and proactive **Full Stack Developer** with a strong foundation
   @keyframes matrix {
     0% { background-position: 0 0; }
     100% { background-position: 0 100%; }
+  }
+  
+  /* Card hover effect */
+  .stats-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .stats-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 30px -10px rgba(73, 96, 130, 0.5);
   }
 </style>
 
@@ -342,7 +339,7 @@ I am a motivated and proactive **Full Stack Developer** with a strong foundation
     }, observerOptions);
 
     // Observe all sections
-    document.querySelectorAll('h2, h3, .tech-stack-section, .github-stats, .trophies-section').forEach(el => {
+    document.querySelectorAll('h2, h3, .github-stats, img[src*="shields.io"]').forEach(el => {
       observer.observe(el);
     });
 
@@ -353,11 +350,6 @@ I am a motivated and proactive **Full Stack Developer** with a strong foundation
       if (parallax) {
         parallax.style.transform = 'translateY(' + scrolled * 0.5 + 'px)';
       }
-    });
-
-    // Stagger animation for tech badges
-    document.querySelectorAll('.tech-badge').forEach((badge, index) => {
-      badge.style.setProperty('--i', index);
     });
 
     // Smooth scroll for anchor links
@@ -382,39 +374,7 @@ I am a motivated and proactive **Full Stack Developer** with a strong foundation
     }
   });
 
-  // Typing effect for multiple lines
-  const texts = [
-    'Hi, I\'m Abdul Rafay',
-    'Full Stack Developer',
-    'PHP | .NET',
-    'Clean Code Enthusiast'
-  ];
-  let count = 0;
-  let index = 0;
-  let currentText = '';
-  let letter = '';
-  
-  function type() {
-    if (count === texts.length) {
-      count = 0;
-    }
-    currentText = texts[count];
-    letter = currentText.slice(0, ++index);
-    
-    document.querySelector('.typing-svg').textContent = letter;
-    if (letter.length === currentText.length) {
-      count++;
-      index = 0;
-      setTimeout(type, 2000);
-    } else {
-      setTimeout(type, 100);
-    }
-  }
-  
-  // Uncomment to enable typing effect
-  // type();
-
-  // Scroll to top button functionality
+  // Scroll to top button
   const scrollButton = document.createElement('button');
   scrollButton.innerHTML = '↑';
   scrollButton.style.cssText = `
@@ -432,6 +392,7 @@ I am a motivated and proactive **Full Stack Developer** with a strong foundation
     opacity: 0;
     transition: opacity 0.3s;
     z-index: 1000;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.3);
   `;
   
   document.body.appendChild(scrollButton);
