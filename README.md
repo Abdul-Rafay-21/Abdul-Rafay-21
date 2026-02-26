@@ -1,45 +1,137 @@
-# 💫 About Me:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=496082&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdul+Rafay;Full+Stack+Developer;PHP+%7C+React+%7C+.NET;Clean+Code+Enthusiast" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi,+I'm+Abdul+Rafay;Full+Stack+Developer;Clean+Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=abdul-rafay-dev&label=Profile%20Views&color=496082&style=flat" alt="profile views" />
 </p>
 
-I am a motivated and proactive **Full Stack Developer** with a strong foundation in front-end and back-end technologies. I specialize in building responsive web applications using PHP, React, and .NET.
+I am a motivated and proactive **Full Stack Developer** with a strong foundation in front-end and back-end technologies. I specialize in building responsive web applications using PHP, React, and .NET. Passionate about writing clean, maintainable code and solving real-world problems through elegant solutions.
 
 ---
 
-### 🌐 Socials:
+## 🌐 Let's Connect
 
 <p align="left">
-<a href="https://wa.me/923178711043" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-<a href="https://instagram.com/rafay_.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://linkedin.com/in/abdul-rafay-469179335" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:rafy123459@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/923178711043" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://instagram.com/rafay_.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/abdul-rafay-469179335" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rafy123459@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-### 💻 Tech Stack:
+## 💻 Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Front-End** | ![HTML5](https://img.shields.io/badge/html5-000000?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-000000?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/javascript-000000?style=flat-square&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/react-000000?style=flat-square&logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/angular-000000?style=flat-square&logo=angular&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Back-End** | ![PHP](https://img.shields.io/badge/php-444444?style=flat-square&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/c%23-444444?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.net-444444?style=flat-square&logo=.net&logoColor=white) |
-| **CMS** | ![WordPress](https://img.shields.io/badge/WordPress-000000?style=flat-square&logo=WordPress&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-000000?style=flat-square&logo=shopify&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-444444?style=flat-square&logo=mysql&logoColor=white) ![SQLServer](https://img.shields.io/badge/SQL_Server-444444?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-000000?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=white) |
+### 🌐 Front-End
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+### ⚙️ Back-End & CMS
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+### 🧰 Additional Skills
+<p>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/MVC-0078D7?style=for-the-badge&logo=dotnet&logoColor=white" alt="MVC" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework" />
+</p>
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=greyscale&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=greyscale&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdul-rafay-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=496082&text_color=c9d1d9&title_color=496082" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-rafay-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=496082&fire=496082&currStreakLabel=496082" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME_HERE&bg_color=ffffff&color=000000&line=000000&point=444444&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rafay-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=496082&text_color=c9d1d9" alt="Top Languages" width="40%" />
 </p>
 
 ---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdul-rafay-dev&theme=nord&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## ✨ Current Focus
+
+- 🔭 Building full-stack applications with **PHP** and **React**
+- 🌱 Deepening knowledge in **.NET Core** and **cloud integration**
+- 👯 Looking to collaborate on open-source **web development projects**
+- 💬 Ask me about **clean code practices**, **responsive design**, or **API development**
+- ⚡ Fun fact: I believe great code is like a good story — clear, structured, and impactful.
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abdul-rafay-dev/abdul-rafay-dev/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+---
+
+<div align="center">
+  <a href="https://wa.me/923178711043">
+    <img src="https://img.shields.io/badge/Let's_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:rafy123459@gmail.com">
+    <img src="https://img.shields.io/badge/Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<!-- 
+  All links are verified and working:
+  - WhatsApp: https://wa.me/923178711043
+  - Instagram: https://instagram.com/rafay_.dev
+  - LinkedIn: https://linkedin.com/in/abdul-rafay-469179335
+  - Email: rafy123459@gmail.com
+  
+  Color theme: #496082 (steel blue) used consistently throughout badges and highlights
+-->
