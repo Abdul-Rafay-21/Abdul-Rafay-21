@@ -74,11 +74,6 @@ I am a motivated and proactive **Website Developer** with a strong foundation in
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/abdul-rafay-469179335">Abdul Rafay</a></i>
