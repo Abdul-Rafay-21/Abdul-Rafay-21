@@ -8,26 +8,9 @@
 
 <br>
 
-I am a motivated and proactive **Full Stack Developer** with a strong foundation in front-end and back-end technologies. I specialize in building responsive web applications using PHP, React, and .NET.
+I am a motivated and proactive **Website Developer** with a strong foundation in front-end and back-end technologies. I specialize in building responsive web applications using PHP, React, and .NET.
 
----
 
-## 🌐 Socials:
-
-<p align="left">
-  <a href="https://wa.me/923178711043" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://instagram.com/rafay_.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/abdul-rafay-469179335" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rafy123459@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 ---
 
@@ -66,7 +49,7 @@ I am a motivated and proactive **Full Stack Developer** with a strong foundation
 
 ### 🔭 Current Focus
 
-- 🔭 I'm currently working on **Full Stack Web Applications**
+- 🔭 I'm currently working on **Website Web Applications**
 - 🌱 I'm currently learning **Advanced React & .NET**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **PHP, React, .NET, or WordPress**
