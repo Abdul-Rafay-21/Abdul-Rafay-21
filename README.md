@@ -1,80 +1,143 @@
-# 💫 About Me:
+# FORTDICE
 
-<div align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=496082&center=false&vCenter=true&width=435&lines=Hi%2C+I'm+Abdul+Rafay;Website+Developer;PHP+%7C+React+%7C+.NET;Clean+Code+Enthusiast" alt="Typing SVG" />
-  </a>
-</div>
+## Digital Impact. Delivered.
 
-<br>
-
-I am a motivated and proactive **Website Developer** with a strong foundation in front-end and back-end technologies. I specialize in building responsive web applications using PHP, React, and .NET.
-
-
+[Visit FortDice.com](https://fortdice.com) | [LinkedIn](https://linkedin.com/company/fortdice) | [Instagram](https://instagram.com/fortdiceagency) | [Facebook](https://facebook.com/fortdice) | [Pinterest](https://pinterest.com/fortdiceagency) | info@fortdice.com
 
 ---
 
-# 💻 Tech Stack:
+## ABOUT FORTDICE
 
-### 🌐 Front-End Development
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
+FortDice is a forward-thinking, full-service digital agency focused on delivering innovative and scalable technology solutions. We specialize in enterprise software development, AI solutions, and full-spectrum cloud engineering.
 
-### ⚙️ Back-End & CMS
-<p align="left">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-</p>
-
-### 🗄️ Database & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
+**Trusted by 500+ enterprises worldwide**
 
 ---
 
-### 🔭 Current Focus
+## CORE SERVICES
 
-- 🔭 I'm currently working on **Website Applications**
-- 🌱 I'm currently learning **Advanced React & .NET**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **PHP, React, .NET, or WordPress**
-- ⚡ Fun fact: **I debug with console.log and prayers** 😅
+### DEVELOPMENT
+
+| Category | Technologies |
+|----------|--------------|
+| Web Development | Python & Django, PHP, WordPress, Drupal, Webflow, Laravel |
+| Mobile Apps | iOS, Android, Gaming Apps, Finance Apps |
+| Software | Custom Software, Testing, Microsoft SharePoint |
+
+### IT SERVICES
+
+| Category | Expertise |
+|----------|-----------|
+| Consulting | Cloud, IT, ERP, Salesforce, BI & Big Data |
+| Cloud | Azure, AWS, Google Cloud |
+| Security | Cybersecurity, Penetration Testing, Account Takeover Prevention |
+
+### MARKETING & BRANDING
+
+| Category | Services |
+|----------|----------|
+| Digital Marketing | SEO, Social Media, Email, Content Marketing |
+| Advertising | Pay Per Click, Media Buying & Planning |
+| Branding | Creative, Naming, Brand Strategy |
+
+### DESIGN
+
+| Category | Specialties |
+|----------|-------------|
+| Websites | Web Design, E-commerce Design |
+| Design | Logo, Graphic, Digital, Product, Packaging |
+| User Experience | UX, UI, Interaction Design |
+
+### BUSINESS SERVICES
+
+| Category | Solutions |
+|----------|-----------|
+| Sales Support | Sales Outsourcing, Lead Generation, Appointment Setting |
+| Customer Support | Call Center, BPO |
+| Financial Services | Accounting, Payroll Processing |
+| Virtual Services | Virtual Assistant Services |
 
 ---
 
-## 📫 Let's Connect!
+## GLOBAL PRESENCE
 
-<p align="center">
-  <a href="https://wa.me/923178711043">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="mailto:rafy123459@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/abdul-rafay-469179335">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/rafay_.dev">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+**UAE Office**
+Mesk 3 - Midtown by Deyaar, Dubai Production City, Dubai, UAE
 
+**Pakistan Office**
+A-199, Punjabi Saudagar Society Phase 1, Sector 25-A, Scheme 33, Karachi, Pakistan
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/abdul-rafay-469179335">Abdul Rafay</a></i>
-</p>
+---
+
+## OUR IMPACT
+
+| Metric | Performance |
+|--------|-------------|
+| Server Uptime | 99.9% Guaranteed |
+| Threat Mitigation | 99.12% Rate |
+| Cloud Migrations | 6+ |
+| Avg. Response Time | 0.10ms |
+| Certified Engineers | 6+ |
+| Brands Fueled | 500+ |
+
+---
+
+## CONTACT
+
+**Email:** info@fortdice.com
+
+**UAE:** +971 58 586 7361
+
+**Pakistan:** +92 344 3774619
+
+---
+
+## SOCIAL
+
+- Website: fortdice.com
+- Facebook: fortdice
+- Instagram: fortdiceagency
+- LinkedIn: fortdice
+- Pinterest: fortdiceagency
+
+---
+
+## HOW WE WORK
+
+**Discovery & Strategy**
+In-depth workshops to map business goals, technical challenges, and roadmap
+
+**Design & Prototyping**
+Interactive high-fidelity prototypes to finalize interface before development
+
+**Development & Iteration**
+Agile methodology, clean code, continuous testing, regular sprint reviews
+
+**Deployment & Support**
+Performance monitoring, training, long-term stability and growth
+
+---
+
+## FAQ
+
+**What enterprise software does FortDice build?**
+
+**Do you offer cloud migration and DevOps?**
+
+**What AI solutions do you provide?**
+
+**Can you work with our existing tech stack?**
+
+---
+
+## LET'S TALK
+
+Ready to build something great? Drop us a message and we'll get back within 24 hours.
+
+Send Message
+
+Or reach out directly to info@fortdice.com
+
+---
+
+*Future-Proof Your Business. Reliable Today. Exceptional Tomorrow.*
