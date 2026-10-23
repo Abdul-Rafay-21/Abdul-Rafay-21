@@ -1,9 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:111113,100:52525B&text=ABDUL%20RAFAY&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=FULL-STACK%20WEB%20DEVELOPER&descAlignY=60&descSize=16" alt="Animated charcoal wave banner with Abdul Rafay, Full-Stack Web Developer" width="100%" />
-  <br />
-  <a href="https://abdulrafay.runs-on.dev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1100&color=A1A1AA&center=true&vCenter=true&width=620&lines=Building+responsive+web+experiences;Frontend+%7C+Backend+%7C+APIs+%7C+Databases;Based+in+Karachi%2C+Pakistan" alt="Animated text: building responsive web experiences, frontend, backend, APIs, databases, based in Karachi" />
-  </a>
+﻿<div align="center">
+  <img src="./Animated-Portfolio-Banner.gif" alt="Animated charcoal portfolio banner for Abdul Rafay" width="100%" />
 </div>
 
 <h1 align="center">Hi, I'm Abdul Rafay</h1>
@@ -94,8 +90,4 @@ See selected projects, screenshots, and more details on my **[portfolio](https:/
 <p align="center">
   <a href="https://abdulrafay.runs-on.dev"><strong>Visit my portfolio</strong></a>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111113,100:52525B" alt="Animated charcoal wave footer" width="100%" />
-</div>
 
