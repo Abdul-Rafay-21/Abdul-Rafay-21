@@ -4,9 +4,6 @@
 <!-- ===================================================== -->
 
 <div align="center">
-
-  <img src="./Animated-Portfolio-Banner.gif" width="100%" alt="Abdul Rafay Portfolio Banner" />
-
   <h1>Abdul Rafay</h1>
 
   <h3>Full-Stack MERN & AI Developer</h3>
