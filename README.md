@@ -1,231 +1,395 @@
 
+<!-- ===================================================== -->
+<!-- ABDUL RAFAY | GITHUB PROFILE README -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-  <img src="./Animated-Portfolio-Banner.gif" width="100%" alt="Abdul Rafay Portfolio Banner"/>
+  <img src="./Animated-Portfolio-Banner.gif" width="100%" alt="Abdul Rafay Portfolio Banner" />
 
   <h1>Abdul Rafay</h1>
+
   <h3>Full-Stack MERN & AI Developer</h3>
 
   <p>
-    Building scalable web applications, modern digital experiences,
-    and AI-powered solutions.
+    Building scalable, intelligent and production-ready web applications.
   </p>
 
   <p>
-    <a href="https://abdulrafay.runs-on.dev">Portfolio</a> |
-    <a href="https://github.com/Abdul-Rafay-21">GitHub</a> |
-    <a href="https://www.linkedin.com/in/abdulrafaydeveloper">LinkedIn</a> |
-    <a href="mailto:rafy123459@gmail.com">Email</a>
+    <a href="https://abdulrafay.runs-on.dev">
+      <img src="https://img.shields.io/badge/PORTFOLIO-2C2C31?style=for-the-badge&logo=googlechrome&logoColor=A1A1AA" alt="Portfolio" />
+    </a>
+    <a href="mailto:rafy123459@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-2C2C31?style=for-the-badge&logo=gmail&logoColor=A1A1AA" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/abdulrafaydeveloper">
+      <img src="https://img.shields.io/badge/LINKEDIN-2C2C31?style=for-the-badge&logo=linkedin&logoColor=A1A1AA" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/Abdul-Rafay-21">
+      <img src="https://img.shields.io/badge/GITHUB-2C2C31?style=for-the-badge&logo=github&logoColor=A1A1AA" alt="GitHub" />
+    </a>
+    <a href="https://www.instagram.com/rafaydev_/">
+      <img src="https://img.shields.io/badge/INSTAGRAM-2C2C31?style=for-the-badge&logo=instagram&logoColor=A1A1AA" alt="Instagram" />
+    </a>
   </p>
 
-  <p>Karachi, Pakistan</p>
+  <p>
+    📍 Karachi, Pakistan
+  </p>
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm **Abdul Rafay**, a Full-Stack MERN & AI Developer passionate about building modern, scalable, and intelligent digital products.
+I'm **Abdul Rafay**, a Full-Stack MERN & AI Developer based in Karachi, Pakistan, focused on building scalable, intelligent, and production-ready digital products.
 
-I specialize in end-to-end web application development, responsive user interfaces, backend architecture, database management, API integrations, and AI-powered solutions.
+I specialize in full-stack web development, modern frontend engineering, backend architecture, REST API development, database integration, AI-powered applications, and cloud deployment.
 
-- Full-Stack Web Development
-- MERN Stack Application Development
-- AI Integration and Automation
-- REST API Development
-- Database Design and Management
-- Application Deployment and Hosting
-- 45+ Projects Delivered
+My experience spans developing business platforms, enterprise ERP systems, e-commerce applications, SaaS products, and intelligent web solutions.
 
-**Portfolio:** [abdulrafay.runs-on.dev](https://abdulrafay.runs-on.dev)
+I work with modern technologies including React.js, Next.js, Node.js, Nest.js, Python, FastAPI, MongoDB, MySQL, and the OpenAI API.
 
----
+I believe in building software that solves real-world problems through clean architecture, thoughtful engineering, performance, and great user experiences.
 
-## Technical Skills
+### Quick Overview
 
-### Programming Languages
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/></a>&nbsp;
-  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript"/></a>&nbsp;
-  <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/></a>&nbsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#"/></a>&nbsp;
-  <a href="https://www.php.net/" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" height="42" alt="PHP"/></a>&nbsp;
-  <a href="https://www.mysql.com/" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/></a>
-</p>
-
-### Frontend Development
-
-<p align="left">
-  <a href="https://react.dev/" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React"/></a>&nbsp;
-  <a href="https://nextjs.org/" title="Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js"/></a>&nbsp;
-  <a href="https://angularjs.org/" title="AngularJS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="42" height="42" alt="AngularJS"/></a>&nbsp;
-  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS"/></a>&nbsp;
-  <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" height="42" alt="Bootstrap"/></a>&nbsp;
-  <a href="https://jquery.com/" title="jQuery"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="42" height="42" alt="jQuery"/></a>&nbsp;
-  <a href="https://gsap.com/" title="GSAP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/greensock/greensock-original.svg" width="42" height="42" alt="GSAP"/></a>&nbsp;
-  <a href="https://reactnative.dev/" title="React Native"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React Native"/></a>&nbsp;
-  <a href="https://flutter.dev/" title="Flutter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter"/></a>
-</p>
-
-### Backend Development
-
-<p align="left">
-  <a href="https://nodejs.org/" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js"/></a>&nbsp;
-  <a href="https://expressjs.com/" title="Express.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" height="42" alt="Express.js"/></a>&nbsp;
-  <a href="https://nestjs.com/" title="NestJS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="42" height="42" alt="NestJS"/></a>&nbsp;
-  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI"/></a>&nbsp;
-  <a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42" height="42" alt="Flask"/></a>&nbsp;
-  <a href="https://dotnet.microsoft.com/" title=".NET"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="42" height="42" alt=".NET"/></a>
-</p>
-
-### AI & AI Development Tools
-
-<p align="left">
-  <a href="https://openai.com/" title="OpenAI"><img src="https://cdn.simpleicons.org/openai" width="42" height="42" alt="OpenAI"/></a>&nbsp;
-  <a href="https://cursor.com/" title="Cursor"><img src="https://cdn.simpleicons.org/cursor" width="42" height="42" alt="Cursor"/></a>&nbsp;
-  <a href="https://www.anthropic.com/" title="Claude"><img src="https://cdn.simpleicons.org/anthropic" width="42" height="42" alt="Claude"/></a>&nbsp;
-  <a href="https://ai.google.dev/" title="Google Gemini"><img src="https://cdn.simpleicons.org/googlegemini" width="42" height="42" alt="Google Gemini"/></a>
-</p>
-
-AI Agents, OpenAI API Integration, AI Automation, AI-Powered Applications, Intelligent Workflows.
-
-### Databases & ORM
-
-<p align="left">
-  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB"/></a>&nbsp;
-  <a href="https://www.mysql.com/" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL"/></a>&nbsp;
-  <a href="https://firebase.google.com/" title="Firebase"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42" height="42" alt="Firebase"/></a>&nbsp;
-  <a href="https://www.prisma.io/" title="Prisma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="42" height="42" alt="Prisma"/></a>
-</p>
-
-### CMS & E-Commerce
-
-<p align="left">
-  <a href="https://www.shopify.com/" title="Shopify"><img src="https://cdn.simpleicons.org/shopify" width="42" height="42" alt="Shopify"/></a>&nbsp;
-  <a href="https://wordpress.org/" title="WordPress"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="42" height="42" alt="WordPress"/></a>
-</p>
-
-### Cloud & Deployment
-
-<p align="left">
-  <a href="https://vercel.com/" title="Vercel"><img src="https://cdn.simpleicons.org/vercel" width="42" height="42" alt="Vercel"/></a>&nbsp;
-  <a href="https://railway.com/" title="Railway"><img src="https://cdn.simpleicons.org/railway" width="42" height="42" alt="Railway"/></a>&nbsp;
-  <a href="https://render.com/" title="Render"><img src="https://cdn.simpleicons.org/render" width="42" height="42" alt="Render"/></a>&nbsp;
-  <a href="https://www.digitalocean.com/" title="DigitalOcean"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="42" height="42" alt="DigitalOcean"/></a>&nbsp;
-  <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker"/></a>
-</p>
-
-### Version Control & Tools
-
-<p align="left">
-  <a href="https://git-scm.com/" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git"/></a>&nbsp;
-  <a href="https://github.com/" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/></a>&nbsp;
-  <a href="https://www.npmjs.com/" title="npm"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="42" height="42" alt="npm"/></a>
-</p>
+- 💻 Full-Stack MERN & AI Developer
+- 🚀 45+ Projects Delivered
+- 💼 1+ Year of Professional Experience
+- ⚛️ React.js, Next.js, Node.js & Nest.js
+- 🐍 Python, FastAPI & Flask
+- 🤖 AI Integration & OpenAI API
+- 🗄️ MongoDB, MySQL, Firebase & Prisma
+- ☁️ Cloud Deployment & Production Hosting
+- 📍 Karachi, Pakistan
+- 🌐 Available for Freelance & Remote Opportunities
 
 ---
 
-## Professional Experience
+## 🛠️ Complete Technical Skills
+
+### 01. Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript_ES6%2B-2C2C31?style=for-the-badge&logo=javascript&logoColor=A1A1AA" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-2C2C31?style=for-the-badge&logo=typescript&logoColor=A1A1AA" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-2C2C31?style=for-the-badge&logo=python&logoColor=A1A1AA" alt="Python" />
+  <img src="https://img.shields.io/badge/C_Sharp-2C2C31?style=for-the-badge&logo=csharp&logoColor=A1A1AA" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/PHP-2C2C31?style=for-the-badge&logo=php&logoColor=A1A1AA" alt="PHP" />
+  <img src="https://img.shields.io/badge/SQL-2C2C31?style=for-the-badge&logo=mysql&logoColor=A1A1AA" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-2C2C31?style=for-the-badge&logo=html5&logoColor=A1A1AA" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-2C2C31?style=for-the-badge&logo=css3&logoColor=A1A1AA" alt="CSS3" />
+</p>
+
+### 02. Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-2C2C31?style=for-the-badge&logo=react&logoColor=A1A1AA" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-2C2C31?style=for-the-badge&logo=nextdotjs&logoColor=A1A1AA" alt="Next.js" />
+  <img src="https://img.shields.io/badge/AngularJS-2C2C31?style=for-the-badge&logo=angular&logoColor=A1A1AA" alt="AngularJS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-2C2C31?style=for-the-badge&logo=tailwindcss&logoColor=A1A1AA" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-2C2C31?style=for-the-badge&logo=bootstrap&logoColor=A1A1AA" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/jQuery-2C2C31?style=for-the-badge&logo=jquery&logoColor=A1A1AA" alt="jQuery" />
+  <img src="https://img.shields.io/badge/GSAP-2C2C31?style=for-the-badge&logo=greensock&logoColor=A1A1AA" alt="GSAP" />
+</p>
+
+### 03. Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-2C2C31?style=for-the-badge&logo=nodedotjs&logoColor=A1A1AA" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-2C2C31?style=for-the-badge&logo=express&logoColor=A1A1AA" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Nest.js-2C2C31?style=for-the-badge&logo=nestjs&logoColor=A1A1AA" alt="Nest.js" />
+  <img src="https://img.shields.io/badge/FastAPI-2C2C31?style=for-the-badge&logo=fastapi&logoColor=A1A1AA" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-2C2C31?style=for-the-badge&logo=flask&logoColor=A1A1AA" alt="Flask" />
+  <img src="https://img.shields.io/badge/PHP-2C2C31?style=for-the-badge&logo=php&logoColor=A1A1AA" alt="PHP" />
+  <img src="https://img.shields.io/badge/ASP.NET-2C2C31?style=for-the-badge&logo=dotnet&logoColor=A1A1AA" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/.NET_Framework-2C2C31?style=for-the-badge&logo=dotnet&logoColor=A1A1AA" alt=".NET Framework" />
+</p>
+
+### 04. Artificial Intelligence & AI Tools
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-2C2C31?style=for-the-badge&logo=openai&logoColor=A1A1AA" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Cursor-2C2C31?style=for-the-badge&logoColor=A1A1AA" alt="Cursor" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-2C2C31?style=for-the-badge&logo=openai&logoColor=A1A1AA" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude-2C2C31?style=for-the-badge&logo=anthropic&logoColor=A1A1AA" alt="Claude" />
+  <img src="https://img.shields.io/badge/Antigravity-2C2C31?style=for-the-badge&logoColor=A1A1AA" alt="Antigravity" />
+</p>
+
+**AI Capabilities**
+
+- OpenAI API Integration
+- AI-Powered Web Applications
+- Custom AI Agents
+- AI-Assisted Development
+- Intelligent Business Workflows
+- AI Workflow Automation
+- Python-Based AI Services
+
+### 05. Databases & ORM
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-2C2C31?style=for-the-badge&logo=mongodb&logoColor=A1A1AA" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-2C2C31?style=for-the-badge&logo=mysql&logoColor=A1A1AA" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-2C2C31?style=for-the-badge&logo=firebase&logoColor=A1A1AA" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Prisma-2C2C31?style=for-the-badge&logo=prisma&logoColor=A1A1AA" alt="Prisma" />
+</p>
+
+### 06. E-Commerce & CMS
+
+<p>
+  <img src="https://img.shields.io/badge/Shopify-2C2C31?style=for-the-badge&logo=shopify&logoColor=A1A1AA" alt="Shopify" />
+  <img src="https://img.shields.io/badge/WordPress-2C2C31?style=for-the-badge&logo=wordpress&logoColor=A1A1AA" alt="WordPress" />
+</p>
+
+### 07. Cloud, Hosting & Deployment
+
+<p>
+  <img src="https://img.shields.io/badge/Vercel-2C2C31?style=for-the-badge&logo=vercel&logoColor=A1A1AA" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Railway-2C2C31?style=for-the-badge&logo=railway&logoColor=A1A1AA" alt="Railway" />
+  <img src="https://img.shields.io/badge/Render-2C2C31?style=for-the-badge&logo=render&logoColor=A1A1AA" alt="Render" />
+  <img src="https://img.shields.io/badge/DigitalOcean-2C2C31?style=for-the-badge&logo=digitalocean&logoColor=A1A1AA" alt="DigitalOcean" />
+  <img src="https://img.shields.io/badge/Hostinger-2C2C31?style=for-the-badge&logo=hostinger&logoColor=A1A1AA" alt="Hostinger" />
+  <img src="https://img.shields.io/badge/Namecheap-2C2C31?style=for-the-badge&logoColor=A1A1AA" alt="Namecheap" />
+  <img src="https://img.shields.io/badge/GoDaddy-2C2C31?style=for-the-badge&logo=godaddy&logoColor=A1A1AA" alt="GoDaddy" />
+  <img src="https://img.shields.io/badge/cPanel-2C2C31?style=for-the-badge&logo=cpanel&logoColor=A1A1AA" alt="cPanel" />
+</p>
+
+### 08. Development Tools & Version Control
+
+<p>
+  <img src="https://img.shields.io/badge/Git-2C2C31?style=for-the-badge&logo=git&logoColor=A1A1AA" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-2C2C31?style=for-the-badge&logo=github&logoColor=A1A1AA" alt="GitHub" />
+  <img src="https://img.shields.io/badge/npm-2C2C31?style=for-the-badge&logo=npm&logoColor=A1A1AA" alt="npm" />
+</p>
+
+---
+
+## 💼 Professional Experience
 
 ### Web Developer Intern — FortDice
 **March 2026 – Present | Karachi, Pakistan**
 
-- Developing and maintaining modern web application features.
-- Building responsive user interfaces and reusable components.
-- Working with frontend and backend integrations.
-- Contributing to API-driven application functionality.
+- Working on modern web applications and business platforms.
+- Developing frontend interfaces and application functionality.
+- Contributing to enterprise solutions, including ERP and business systems.
+- Working with modern JavaScript technologies and API integrations.
+- Focusing on application usability, performance, and maintainability.
 
 ### Web Developer — TriTechTitan
 **November 2025 – February 2026 | Karachi, Pakistan**
 
-- Developed and maintained web application features.
-- Built responsive interfaces and reusable components.
-- Worked on frontend and backend integration.
-- Focused on application functionality and user experience.
+- Developed and maintained responsive web applications.
+- Worked on frontend development and user interface improvements.
+- Implemented application features based on project requirements.
+- Focused on clean code, usability, and cross-browser compatibility.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Rainbow Flora UAE
-Flower and gifting business web platform.
+### 01. Rainbow Flora UAE
+**E-Commerce Platform**
 
-- Technologies: React.js, Vite
-- Website: https://rainbowflorauae.com
+A floral e-commerce storefront for a Dubai-based rose supplier, presenting standard and spray rose varieties to florists, wholesalers, and floral businesses.
 
-### FortFiler
-Web-based file workflow application.
+**Technology Stack:**
+- React.js
+- Vite
 
-- Technologies: React.js, Vite
-- Website: https://fortfiler.fortdice.com
-
-### FlipMyFile
-Modern file-focused web application.
-
-- Technologies: React.js, Vite, Tailwind CSS
-- Website: https://flipmyfile.space
-
-### FortDice ERP Portal
-Integrated enterprise resource planning and management platform.
-
-- Frontend: React.js, TypeScript, Vite, Tailwind CSS, TanStack Query
-- Backend: Node.js, Express.js
-- Database: MySQL
-- Integrations: Socket.IO, LiveKit, Firebase Cloud Messaging, Leaflet
-- Website: https://erp.fortdice.com
-
-### Golden One
-Business website developed using PHP.
-
-- Technology: PHP
-- Website: https://goldenonepvtltd.com
+[Visit Live Website](https://rainbowflorauae.com)
 
 ---
 
-## Education
+### 02. FortFiler
+**Tax Filing & Business Services Platform**
+
+A Pakistan-focused tax-filing platform offering income tax return preparation, salary tax estimation, consultant review, sales tax, company registration, trademark services, and USA LLC services.
+
+**Technology Stack:**
+- React.js
+- Vite
+
+[Visit Live Website](https://fortfiler.fortdice.com)
+
+---
+
+### 03. FlipMyFile
+**Online File Conversion Platform**
+
+An online document productivity platform providing PDF and document conversion, compression, merging, splitting, and file organization tools.
+
+**Technology Stack:**
+- React.js
+- Vite
+- Tailwind CSS
+
+[Visit Live Website](https://flipmyfile.space)
+
+---
+
+### 04. FortDice ERP Portal
+**Enterprise Resource Planning System**
+
+An integrated enterprise management portal combining HR, attendance, payroll, accounting, and CRM functionality in one business platform, with an Android companion application using the same API.
+
+**Technology Stack:**
+- React.js
+- TypeScript
+- Vite
+- Tailwind CSS
+- TanStack Query
+- Node.js
+- Express.js
+- MySQL
+- Socket.IO
+- LiveKit
+- Firebase Cloud Messaging
+- Leaflet
+
+[Visit Live Website](https://erp.fortdice.com)
+
+---
+
+### 05. Golden One
+**Rice E-Commerce Platform**
+
+An online storefront for Pakistani basmati rice products, featuring different rice varieties and product information.
+
+**Technology:** PHP
+
+[Visit Live Website](https://goldenonepvtltd.com)
+
+---
+
+### More Projects
+
+I have delivered 45+ projects across web applications, e-commerce platforms, business solutions, and digital products.
+
+<p align="center">
+  <a href="https://abdulrafay.runs-on.dev/projects">
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-2C2C31?style=for-the-badge&logo=googlechrome&logoColor=A1A1AA" alt="Explore All Projects" />
+  </a>
+</p>
+
+---
+
+## 🧩 Services & Expertise
+
+| Service | Description |
+|---|---|
+| Full-Stack MERN Development | Scalable web applications using React, Node.js, Express and MongoDB |
+| AI-Powered Solutions | AI integrations, custom AI agents and business workflow automation |
+| SaaS & MVP Development | Turning business ideas into functional software products |
+| Backend & API Development | Backend architecture, REST APIs and database integration |
+| Frontend Engineering | Responsive interfaces and modern user experiences |
+| Cloud Deployment | Application deployment, hosting and production maintenance |
+| CMS & E-Commerce | Shopify, WordPress and custom storefront development |
+
+---
+
+## 🏗️ Development Architecture
+
+My development approach covers the complete application lifecycle.
+
+| Layer | Technologies |
+|---|---|
+| Frontend | React.js, Next.js, AngularJS, TypeScript, Tailwind CSS |
+| API Layer | REST APIs, Express.js, ASP.NET |
+| Backend | Node.js, Nest.js, Python, PHP, .NET |
+| AI Services | OpenAI API, FastAPI, Flask |
+| Database | MongoDB, MySQL, Firebase |
+| ORM | Prisma |
+| Deployment | Vercel, Railway, Render, DigitalOcean, cPanel |
+
+---
+
+## ⚙️ How I Build Software
+
+1. **Understand** — Identify business goals, users, requirements, and project scope.
+2. **Plan** — Define architecture, database structures, APIs, and development milestones.
+3. **Design** — Create responsive interfaces and intuitive user experiences.
+4. **Develop** — Implement frontend, backend, APIs, and AI integrations.
+5. **Test** — Validate functionality, responsiveness, and application behaviour.
+6. **Deploy & Improve** — Launch production applications, monitor performance, and continuously improve.
+
+---
+
+## 🎓 Education
 
 **Advanced Diploma in Software Engineering (ADSE)**  
 Aptech Pakistan | 2024 – 2027
 
-**Intermediate in Computer Science (ICS)**  
+**Intermediate (ICS) – Computer Science**  
 GDC Ghazi Goth, Karachi | 2025 – 2027
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-21&show_icons=true&hide_border=true&bg_color=2C2C31&title_color=A1A1AA&text_color=FFFFFF&icon_color=A1A1AA" alt="GitHub Statistics" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-21&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-21&layout=compact&hide_border=true&bg_color=2C2C31&title_color=A1A1AA&text_color=FFFFFF" alt="Top Languages" />
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=Abdul-Rafay-21&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Rafay-21&hide_border=true&background=2C2C31&ring=A1A1AA&fire=A1A1AA&currStreakLabel=A1A1AA&sideLabels=FFFFFF&dates=A1A1AA" alt="GitHub Contribution Streak" />
 
 </div>
 
 ---
 
-## Connect With Me
+## 🤝 Why Work With Me?
 
-<p align="center">
-  <a href="https://abdulrafay.runs-on.dev" title="Portfolio"><img src="https://cdn.simpleicons.org/googlechrome" width="36" height="36" alt="Portfolio"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/Abdul-Rafay-21" title="GitHub"><img src="https://cdn.simpleicons.org/github" width="36" height="36" alt="GitHub"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/abdulrafaydeveloper" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin" width="36" height="36" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/rafaydev_/" title="Instagram"><img src="https://cdn.simpleicons.org/instagram" width="36" height="36" alt="Instagram"/></a>&nbsp;&nbsp;
-  <a href="mailto:rafy123459@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail" width="36" height="36" alt="Email"/></a>
-</p>
+- **End-to-End Development:** From planning and frontend engineering to backend development and deployment.
+- **Business-Focused Solutions:** ERP systems, marketplaces, SaaS platforms, and business applications.
+- **AI Integration:** Intelligent application features, AI agents, and workflow automation.
+- **Modern Technology:** Working with current web technologies and development tools.
+- **Production Deployment:** Experience with cloud platforms and live application hosting.
+- **Continuous Improvement:** Focused on maintainable architecture, performance, and user experience.
 
-<p align="center">
-  <strong>Let's build something amazing together.</strong>
-</p>
+---
 
-<p align="center">
-  <sub>Designed and maintained by Abdul Rafay</sub>
-</p>
+## 📬 Let's Connect
+
+I'm open to professional networking, freelance projects, full-time opportunities, and collaboration on innovative software products.
+
+<div align="center">
+
+  <a href="https://abdulrafay.runs-on.dev">
+    <img src="https://img.shields.io/badge/WEBSITE-2C2C31?style=for-the-badge&logo=googlechrome&logoColor=A1A1AA" alt="Website" />
+  </a>
+
+  <a href="mailto:rafy123459@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-2C2C31?style=for-the-badge&logo=gmail&logoColor=A1A1AA" alt="Email" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/abdulrafaydeveloper">
+    <img src="https://img.shields.io/badge/LINKEDIN-2C2C31?style=for-the-badge&logo=linkedin&logoColor=A1A1AA" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/Abdul-Rafay-21">
+    <img src="https://img.shields.io/badge/GITHUB-2C2C31?style=for-the-badge&logo=github&logoColor=A1A1AA" alt="GitHub" />
+  </a>
+
+  <a href="https://www.instagram.com/rafaydev_/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-2C2C31?style=for-the-badge&logo=instagram&logoColor=A1A1AA" alt="Instagram" />
+  </a>
+
+  <br/><br/>
+
+  **Email:** rafy123459@gmail.com  
+  **Phone:** +92 317 8711043  
+  **Location:** Karachi, Pakistan
+
+  <br/>
+
+  <h3>Building meaningful digital experiences, one line of code at a time.</h3>
+
+  <sub>© 2026 Abdul Rafay. All rights reserved.</sub>
+
+</div>
