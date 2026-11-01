@@ -146,7 +146,7 @@ I enjoy solving real-world problems through clean code, thoughtful architecture,
     <img src="https://cdn.simpleicons.org/anthropic/white" width="45" height="45" alt="Claude"/>
   </a>&nbsp;&nbsp;
   <a href="https://deepmind.google/technologies/gemini/" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="45" height="45" alt="Google Gemini"/>
+    <img src="https://cdn.simpleicons.org/googlegemini/8A2BE2" width="45" height="45" alt="Google Gemini"/>
   </a>
 </p>
 <p>
@@ -185,9 +185,6 @@ I enjoy solving real-world problems through clean code, thoughtful architecture,
   </a>&nbsp;&nbsp;
   <a href="https://www.digitalocean.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="45" height="45" alt="DigitalOcean"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
   </a>
 </p>
 
@@ -203,7 +200,7 @@ I enjoy solving real-world problems through clean code, thoughtful architecture,
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="45" height="45" alt="npm"/>
   </a>&nbsp;&nbsp;
   <a href="https://cpanel.net/" target="_blank">
-    <img src="https://cdn.simpleicons.org/cpanel/FF6C2C" width="45" height="45" alt="cPanel"/>
+    <img src="https://cdn.simpleicons.org/cpanel/FF8C00" width="45" height="45" alt="cPanel"/>
   </a>
 </p>
 
@@ -218,7 +215,7 @@ I enjoy solving real-world problems through clean code, thoughtful architecture,
 | **API Architecture** | REST APIs, Backend Integrations, Microservices |
 | **AI Integration** | OpenAI API, Custom AI Agents, Automation Scripts |
 | **Database Architecture** | MongoDB, MySQL, Firebase, Prisma ORM |
-| **Cloud & DevOps** | Vercel, Railway, Render, DigitalOcean, Docker, cPanel |
+| **Cloud & Hosting** | Vercel, Railway, Render, DigitalOcean, cPanel |
 
 ---
 
@@ -250,10 +247,10 @@ I enjoy solving real-world problems through clean code, thoughtful architecture,
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-21&show_icons=true&hide_border=true&theme=radical&rank_icon=github" alt="GitHub Statistics"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-21&layout=compact&hide_border=true&theme=radical" alt="Most Used Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-21&show_icons=true&hide_border=true&title_color=FF8C00&icon_color=8A2BE2&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Statistics"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-21&layout=compact&hide_border=true&title_color=FF8C00&text_color=C9D1D9&bg_color=0D1117" alt="Most Used Languages"/>
   <br/><br/>
-  <img width="98%" src="https://streak-stats.demolab.com?user=Abdul-Rafay-21&hide_border=true&theme=radical" alt="GitHub Contribution Streak"/>
+  <img width="98%" src="https://streak-stats.demolab.com?user=Abdul-Rafay-21&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF8C00&currStreakNum=FFFFFF&currStreakLabel=8A2BE2&sideNums=FFFFFF&sideLabels=FFFFFF&dates=C9D1D9" alt="GitHub Contribution Streak"/>
 </div>
 
 ---
@@ -262,19 +259,19 @@ I enjoy solving real-world problems through clean code, thoughtful architecture,
 
 <p align="center">
   <a href="https://abdulrafay.runs-on.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF8C00?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/abdulrafaydeveloper" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Abdul-Rafay-21" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/rafaydev_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-FF8C00?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:rafy123459@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
