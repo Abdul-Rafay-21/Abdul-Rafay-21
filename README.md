@@ -55,97 +55,97 @@ I enjoy solving real-world problems through clean code, thoughtful architecture,
 
 ### Programming Languages
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.python.org/" target="_blank" title="Python">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
   </a>&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C Sharp"/>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.php.net/" target="_blank" title="PHP">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" title="SQL / MySQL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL"/>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
   </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
   </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
   </a>
 </p>
 
 ### Frontend Development
 <p align="left">
-  <a href="https://react.dev/" target="_blank" title="React.js">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React.js"/>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React"/>
   </a>&nbsp;&nbsp;
-  <a href="https://nextjs.org/" target="_blank" title="Next.js">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/nextdotjs/white" width="45" height="45" alt="Next.js"/>
   </a>&nbsp;&nbsp;
-  <a href="https://angular.dev/" target="_blank" title="Angular">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45" alt="AngularJS"/>
+  <a href="https://angular.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="45" height="45" alt="Angular"/>
   </a>&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45" height="45" alt="Tailwind CSS"/>
   </a>&nbsp;&nbsp;
-  <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
   </a>&nbsp;&nbsp;
-  <a href="https://jquery.com/" target="_blank" title="jQuery">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="45" height="45" alt="jQuery"/>
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="45" height="45" alt="jQuery"/>
   </a>&nbsp;&nbsp;
-  <a href="https://gsap.com/" target="_blank" title="GSAP">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/greensock/greensock-original.svg" width="45" height="45" alt="GSAP"/>
+  <a href="https://gsap.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/greensock/88CE02" width="45" height="45" alt="GSAP"/>
   </a>&nbsp;&nbsp;
-  <a href="https://reactnative.dev/" target="_blank" title="React Native">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React Native"/>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://cdn.simpleicons.org/react/61DAFB" width="45" height="45" alt="React Native"/>
   </a>&nbsp;&nbsp;
-  <a href="https://flutter.dev/" target="_blank" title="Flutter">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter"/>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter"/>
   </a>
 </p>
 
 ### Backend Development
 <p align="left">
-  <a href="https://nodejs.org/" target="_blank" title="Node.js">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
   </a>&nbsp;&nbsp;
-  <a href="https://expressjs.com/" target="_blank" title="Express.js">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/express/white" width="45" height="45" alt="Express.js"/>
   </a>&nbsp;&nbsp;
-  <a href="https://nestjs.com/" target="_blank" title="NestJS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS"/>
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS"/>
   </a>&nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
   </a>&nbsp;&nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/flask/white" width="45" height="45" alt="Flask"/>
   </a>&nbsp;&nbsp;
-  <a href="https://dotnet.microsoft.com/" target="_blank" title=".NET">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" height="45" alt=".NET"/>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="45" height="45" alt=".NET"/>
   </a>
 </p>
 
 ### AI & Intelligent Tools
 <p align="left">
-  <a href="https://openai.com/" target="_blank" title="OpenAI">
-    <img src="https://cdn.simpleicons.org/openai/000000" width="45" height="45" alt="OpenAI"/>
+  <a href="https://openai.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/openai/white" width="45" height="45" alt="OpenAI"/>
   </a>&nbsp;&nbsp;
-  <a href="https://cursor.sh/" target="_blank" title="Cursor">
-    <img src="https://cdn.simpleicons.org/cursor/000000" width="45" height="45" alt="Cursor"/>
+  <a href="https://cursor.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/cursor/white" width="45" height="45" alt="Cursor"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.anthropic.com/" target="_blank" title="Claude">
-    <img src="https://cdn.simpleicons.org/anthropic/000000" width="45" height="45" alt="Anthropic Claude"/>
+  <a href="https://www.anthropic.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/anthropic/white" width="45" height="45" alt="Claude"/>
   </a>&nbsp;&nbsp;
-  <a href="https://deepmind.google/technologies/gemini/" target="_blank" title="Google Gemini">
+  <a href="https://deepmind.google/technologies/gemini/" target="_blank">
     <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="45" height="45" alt="Google Gemini"/>
   </a>
 </p>
@@ -155,57 +155,54 @@ I enjoy solving real-world problems through clean code, thoughtful architecture,
 
 ### Databases & ORM
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="45" height="45" alt="Firebase"/>
   </a>&nbsp;&nbsp;
-  <a href="https://firebase.google.com/" target="_blank" title="Firebase">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.prisma.io/" target="_blank" title="Prisma">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" height="45" alt="Prisma"/>
+  <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/prisma/white" width="45" height="45" alt="Prisma"/>
   </a>
 </p>
 
 ### CMS, E-Commerce & Deployment
 <p align="left">
-  <a href="https://www.shopify.com/" target="_blank" title="Shopify">
+  <a href="https://www.shopify.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/shopify/7AB55C" width="45" height="45" alt="Shopify"/>
   </a>&nbsp;&nbsp;
-  <a href="https://wordpress.org/" target="_blank" title="WordPress">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="45" height="45" alt="WordPress"/>
+  <a href="https://wordpress.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/wordpress/white" width="45" height="45" alt="WordPress"/>
   </a>&nbsp;&nbsp;
-  <a href="https://vercel.com/" target="_blank" title="Vercel">
-    <img src="https://cdn.simpleicons.org/vercel/000000" width="45" height="45" alt="Vercel"/>
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/vercel/white" width="45" height="45" alt="Vercel"/>
   </a>&nbsp;&nbsp;
-  <a href="https://railway.app/" target="_blank" title="Railway">
-    <img src="https://cdn.simpleicons.org/railway/0B0D0E" width="45" height="45" alt="Railway"/>
+  <a href="https://railway.app/" target="_blank">
+    <img src="https://cdn.simpleicons.org/railway/white" width="45" height="45" alt="Railway"/>
   </a>&nbsp;&nbsp;
-  <a href="https://render.com/" target="_blank" title="Render">
-    <img src="https://cdn.simpleicons.org/render/000000" width="45" height="45" alt="Render"/>
+  <a href="https://render.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/render/white" width="45" height="45" alt="Render"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.digitalocean.com/" target="_blank" title="DigitalOcean">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="45" height="45" alt="DigitalOcean"/>
+  <a href="https://www.digitalocean.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="45" height="45" alt="DigitalOcean"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" title="Docker">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
   </a>
 </p>
 
 ### Tools & Version Control
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/white" width="45" height="45" alt="GitHub"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.npmjs.com/" target="_blank" title="npm">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="45" alt="npm"/>
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="45" height="45" alt="npm"/>
   </a>&nbsp;&nbsp;
-  <a href="https://cpanel.net/" target="_blank" title="cPanel">
+  <a href="https://cpanel.net/" target="_blank">
     <img src="https://cdn.simpleicons.org/cpanel/FF6C2C" width="45" height="45" alt="cPanel"/>
   </a>
 </p>
@@ -253,10 +250,10 @@ I enjoy solving real-world problems through clean code, thoughtful architecture,
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-21&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Statistics"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-21&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-21&show_icons=true&hide_border=true&theme=radical&rank_icon=github" alt="GitHub Statistics"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-21&layout=compact&hide_border=true&theme=radical" alt="Most Used Languages"/>
   <br/><br/>
-  <img width="98%" src="https://streak-stats.demolab.com?user=Abdul-Rafay-21&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
+  <img width="98%" src="https://streak-stats.demolab.com?user=Abdul-Rafay-21&hide_border=true&theme=radical" alt="GitHub Contribution Streak"/>
 </div>
 
 ---
