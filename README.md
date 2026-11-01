@@ -140,19 +140,6 @@ I enjoy solving real-world problems through clean code, thoughtful architecture,
 
 ---
 
-<h2><img src="./assets/icons/projects.svg" width="26" height="26" align="top" alt=""/>&nbsp;Selected Work</h2>
-
-| Project | What it is | Stack | Live |
-| :--- | :--- | :--- | :--- |
-| **FortDice ERP Portal** | HR, attendance, payroll, accounting and CRM in one portal, with a companion Android app | React, TypeScript, Node.js, Express, MySQL, Socket.IO | [erp.fortdice.com](https://erp.fortdice.com/) |
-| **FortFiler** | Tax filing and business services platform for Pakistan | React, Vite | [fortfiler.fortdice.com](https://fortfiler.fortdice.com/) |
-| **FlipMyFile** | Free online PDF and file conversion tools, no sign-up | React, Vite, Tailwind CSS | [flipmyfile.space](https://flipmyfile.space/) |
-| **Rainbow Flora UAE** | Floral e-commerce storefront for a Dubai rose supplier | React, Vite | [rainbowflorauae.com](https://rainbowflorauae.com/) |
-
-More projects: [abdulrafay.runs-on.dev/projects](https://abdulrafay.runs-on.dev/projects)
-
----
-
 <h2><img src="./assets/icons/experience.svg" width="26" height="26" align="top" alt=""/>&nbsp;Professional Experience</h2>
 
 ### Web Developer Intern — FortDice
