@@ -5,7 +5,6 @@
 
 <div align="center">
 
-  <img src="./Animated-Portfolio-Banner.gif" width="100%" alt="Abdul Rafay - Full Stack Developer"/>
 
   <h1>Hi there, I'm Abdul Rafay</h1>
 
