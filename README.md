@@ -80,7 +80,6 @@ I enjoy solving real-world problems through clean code, thoughtful architecture,
 <p align="left">
   <a href="https://nodejs.org/" target="_blank"><img src="./assets/tech/nodejs.svg" width="84" height="92" alt="Node.js" title="Node.js"/></a>&nbsp;
   <a href="https://expressjs.com/" target="_blank"><img src="./assets/tech/express.svg" width="84" height="92" alt="Express.js" title="Express.js"/></a>&nbsp;
-  <a href="https://nestjs.com/" target="_blank"><img src="./assets/tech/nestjs.svg" width="84" height="92" alt="NestJS" title="NestJS"/></a>&nbsp;
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="./assets/tech/fastapi.svg" width="84" height="92" alt="FastAPI" title="FastAPI"/></a>&nbsp;
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="./assets/tech/flask.svg" width="84" height="92" alt="Flask" title="Flask"/></a>&nbsp;
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="./assets/tech/dotnet.svg" width="84" height="92" alt=".NET" title=".NET"/></a>
@@ -114,7 +113,7 @@ I enjoy solving real-world problems through clean code, thoughtful architecture,
   <a href="https://vercel.com/" target="_blank"><img src="./assets/tech/vercel.svg" width="84" height="92" alt="Vercel" title="Vercel"/></a>&nbsp;
   <a href="https://railway.app/" target="_blank"><img src="./assets/tech/railway.svg" width="84" height="92" alt="Railway" title="Railway"/></a>&nbsp;
   <a href="https://render.com/" target="_blank"><img src="./assets/tech/render.svg" width="84" height="92" alt="Render" title="Render"/></a>&nbsp;
-  <a href="https://www.digitalocean.com/" target="_blank"><img src="./assets/tech/digitalocean.svg" width="84" height="92" alt="DigitalOcean" title="DigitalOcean"/></a>&nbsp;
+</a>&nbsp;
   <a href="https://cpanel.net/" target="_blank"><img src="./assets/tech/cpanel.svg" width="84" height="92" alt="cPanel" title="cPanel"/></a>
 </p>
 
@@ -132,11 +131,11 @@ I enjoy solving real-world problems through clean code, thoughtful architecture,
 | Capability Area | Applied Technologies |
 | :--- | :--- |
 | **Frontend Engineering** | React.js, Next.js, AngularJS, TypeScript, Tailwind CSS |
-| **Backend Engineering** | Node.js, Express.js, NestJS, Python, PHP, .NET |
+| **Backend Engineering** | Node.js, Express.js, Python, PHP, .NET |
 | **API Architecture** | REST APIs, Backend Integrations, Microservices |
 | **AI Integration** | OpenAI API, Custom AI Agents, Automation Scripts |
 | **Database Architecture** | MongoDB, MySQL, Firebase, Prisma ORM |
-| **Cloud & Hosting** | Vercel, Railway, Render, DigitalOcean, cPanel |
+| **Cloud & Hosting** | Vercel, Railway, Render, cPanel |
 
 ---
 
