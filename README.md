@@ -1,25 +1,36 @@
+<!-- ======================================================
+     ABDUL RAFAY | GITHUB PROFILE README
+     Icons live in ./assets (local SVG, no external icon CDN)
+     ====================================================== -->
+
 <div align="center">
 
-# Hi, I'm Abdul Rafay 👋
 
-### Full-Stack MERN & AI Developer
+  <h1>Hi there, I'm Abdul Rafay</h1>
 
-Building scalable web applications, intelligent digital products, and modern software solutions.
+  <h3>Full-Stack MERN &amp; AI Developer</h3>
 
-[![Portfolio](./assets/badges/portfolio.svg)](https://abdulrafay.runs-on.dev)
-[![LinkedIn](./assets/badges/linkedin.svg)](https://www.linkedin.com/in/abdulrafaydeveloper)
-[![GitHub](./assets/badges/github.svg)](https://github.com/Abdul-Rafay-21)
-[![Instagram](./assets/badges/instagram.svg)](https://www.instagram.com/rafaydev_/)
-[![WhatsApp](./assets/badges/whatsapp.svg)](https://wa.me/923178711043)
-[![Email](./assets/badges/email.svg)](mailto:rafy123459@gmail.com)
+  <p>
+    Building scalable web applications, intelligent digital products,
+    and modern software solutions.
+  </p>
 
-📍 Karachi, Pakistan
+  <p>
+  <a href="https://abdulrafay.runs-on.dev" target="_blank"><img src="./assets/badges/portfolio.svg" height="42" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/abdulrafaydeveloper" target="_blank"><img src="./assets/badges/linkedin.svg" height="42" alt="LinkedIn"/></a>
+  <a href="https://github.com/Abdul-Rafay-21" target="_blank"><img src="./assets/badges/github.svg" height="42" alt="GitHub"/></a>
+  <a href="https://www.instagram.com/rafaydev_/" target="_blank"><img src="./assets/badges/instagram.svg" height="42" alt="Instagram"/></a>
+  <a href="https://wa.me/923178711043" target="_blank"><img src="./assets/badges/whatsapp.svg" height="42" alt="WhatsApp"/></a>
+  <a href="mailto:rafy123459@gmail.com"><img src="./assets/badges/email.svg" height="42" alt="Email"/></a>
+  </p>
+
+  <p><img src="./assets/icons/location.svg" width="16" height="16" align="top" alt=""/>&nbsp;Karachi, Pakistan</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<h2><img src="./assets/icons/about.svg" width="26" height="26" align="top" alt=""/>&nbsp;About Me</h2>
 
 I'm **Abdul Rafay**, a Full-Stack MERN & AI Developer focused on building scalable, intelligent, and production-ready web applications.
 
@@ -27,155 +38,155 @@ I specialize in modern frontend development, backend engineering, database archi
 
 I enjoy solving real-world problems through clean code, thoughtful architecture, modern technologies, and user-focused development.
 
-### Professional Overview
+<h3><img src="./assets/icons/overview.svg" width="22" height="22" align="top" alt=""/>&nbsp;Professional Overview</h3>
 
 - **Role:** Full-Stack MERN & AI Developer
-- **Projects:** 45+ projects delivered
-- **Experience:** 1+ year of professional experience
-- **Focus:** Frontend & backend development, REST APIs, AI automation, database design, and deployment
-- **Availability:** Open to freelance and remote opportunities
+- **Track Record:** 45+ Projects Delivered
+- **Experience:** 1+ Year of Professional Experience
+- **Core Focus:** Frontend & Backend App Development, REST APIs, AI Automation, Database Design, and Cloud Deployment
+- **Availability:** Open for Freelance and Remote Opportunities
 
 ---
 
-## 🛠️ Technical Skills
+<h2><img src="./assets/icons/skills.svg" width="26" height="26" align="top" alt=""/>&nbsp;Technical Skills</h2>
 
-### Languages
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/tech/javascript.svg" width="72" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="./assets/tech/typescript.svg" width="72" alt="TypeScript" /></a>
-  <a href="https://www.python.org/"><img src="./assets/tech/python.svg" width="72" alt="Python" /></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./assets/tech/csharp.svg" width="72" alt="C#" /></a>
-  <a href="https://www.php.net/"><img src="./assets/tech/php.svg" width="72" alt="PHP" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./assets/tech/html5.svg" width="72" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./assets/tech/css3.svg" width="72" alt="CSS3" /></a>
+*Click on any technology to visit its official website.*
+
+### Programming Languages
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./assets/tech/javascript.svg" width="84" height="92" alt="JavaScript" title="JavaScript"/></a>&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="./assets/tech/typescript.svg" width="84" height="92" alt="TypeScript" title="TypeScript"/></a>&nbsp;
+  <a href="https://www.python.org/" target="_blank"><img src="./assets/tech/python.svg" width="84" height="92" alt="Python" title="Python"/></a>&nbsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="./assets/tech/csharp.svg" width="84" height="92" alt="C#" title="C#"/></a>&nbsp;
+  <a href="https://www.php.net/" target="_blank"><img src="./assets/tech/php.svg" width="84" height="92" alt="PHP" title="PHP"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="./assets/tech/html5.svg" width="84" height="92" alt="HTML5" title="HTML5"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="./assets/tech/css3.svg" width="84" height="92" alt="CSS3" title="CSS3"/></a>
 </p>
 
-### Frontend & Mobile
-<p>
-  <a href="https://react.dev/"><img src="./assets/tech/react.svg" width="72" alt="React" /></a>
-  <a href="https://nextjs.org/"><img src="./assets/tech/nextjs.svg" width="72" alt="Next.js" /></a>
-  <a href="https://angular.dev/"><img src="./assets/tech/angular.svg" width="72" alt="Angular" /></a>
-  <a href="https://tailwindcss.com/"><img src="./assets/tech/tailwind.svg" width="72" alt="Tailwind CSS" /></a>
-  <a href="https://getbootstrap.com/"><img src="./assets/tech/bootstrap.svg" width="72" alt="Bootstrap" /></a>
-  <a href="https://jquery.com/"><img src="./assets/tech/jquery.svg" width="72" alt="jQuery" /></a>
-  <a href="https://gsap.com/"><img src="./assets/tech/gsap.svg" width="72" alt="GSAP" /></a>
-  <a href="https://reactnative.dev/"><img src="./assets/tech/react-native.svg" width="72" alt="React Native" /></a>
-  <a href="https://flutter.dev/"><img src="./assets/tech/flutter.svg" width="72" alt="Flutter" /></a>
+### Frontend Development
+<p align="left">
+  <a href="https://react.dev/" target="_blank"><img src="./assets/tech/react.svg" width="84" height="92" alt="React" title="React"/></a>&nbsp;
+  <a href="https://nextjs.org/" target="_blank"><img src="./assets/tech/nextjs.svg" width="84" height="92" alt="Next.js" title="Next.js"/></a>&nbsp;
+  <a href="https://angular.dev/" target="_blank"><img src="./assets/tech/angular.svg" width="84" height="92" alt="Angular" title="Angular"/></a>&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank"><img src="./assets/tech/tailwind.svg" width="84" height="92" alt="Tailwind CSS" title="Tailwind CSS"/></a>&nbsp;
+  <a href="https://getbootstrap.com/" target="_blank"><img src="./assets/tech/bootstrap.svg" width="84" height="92" alt="Bootstrap" title="Bootstrap"/></a>&nbsp;
+  <a href="https://jquery.com/" target="_blank"><img src="./assets/tech/jquery.svg" width="84" height="92" alt="jQuery" title="jQuery"/></a>&nbsp;
+  <a href="https://gsap.com/" target="_blank"><img src="./assets/tech/gsap.svg" width="84" height="92" alt="GSAP" title="GSAP"/></a>&nbsp;
+  <a href="https://reactnative.dev/" target="_blank"><img src="./assets/tech/react-native.svg" width="84" height="92" alt="React Native" title="React Native"/></a>&nbsp;
+  <a href="https://flutter.dev/" target="_blank"><img src="./assets/tech/flutter.svg" width="84" height="92" alt="Flutter" title="Flutter"/></a>
 </p>
 
-### Backend
-<p>
-  <a href="https://nodejs.org/"><img src="./assets/tech/nodejs.svg" width="72" alt="Node.js" /></a>
-  <a href="https://expressjs.com/"><img src="./assets/tech/express.svg" width="72" alt="Express.js" /></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="./assets/tech/fastapi.svg" width="72" alt="FastAPI" /></a>
-  <a href="https://flask.palletsprojects.com/"><img src="./assets/tech/flask.svg" width="72" alt="Flask" /></a>
-  <a href="https://dotnet.microsoft.com/"><img src="./assets/tech/dotnet.svg" width="72" alt=".NET" /></a>
+### Backend Development
+<p align="left">
+  <a href="https://nodejs.org/" target="_blank"><img src="./assets/tech/nodejs.svg" width="84" height="92" alt="Node.js" title="Node.js"/></a>&nbsp;
+  <a href="https://expressjs.com/" target="_blank"><img src="./assets/tech/express.svg" width="84" height="92" alt="Express.js" title="Express.js"/></a>&nbsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="./assets/tech/fastapi.svg" width="84" height="92" alt="FastAPI" title="FastAPI"/></a>&nbsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="./assets/tech/flask.svg" width="84" height="92" alt="Flask" title="Flask"/></a>&nbsp;
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="./assets/tech/dotnet.svg" width="84" height="92" alt=".NET" title=".NET"/></a>
 </p>
 
 ### AI & Intelligent Tools
-<p>
-  <a href="https://openai.com/"><img src="./assets/tech/openai.svg" width="72" alt="OpenAI" /></a>
-  <a href="https://www.anthropic.com/claude"><img src="./assets/tech/claude.svg" width="72" alt="Claude" /></a>
-  <a href="https://deepmind.google/technologies/gemini/"><img src="./assets/tech/gemini.svg" width="72" alt="Gemini" /></a>
-  <a href="https://cursor.com/"><img src="./assets/tech/cursor.svg" width="72" alt="Cursor" /></a>
-  <a href="https://openai.com/codex/"><img src="./assets/tech/codex.svg" width="72" alt="Codex" /></a>
+<p align="left">
+  <a href="https://openai.com/" target="_blank"><img src="./assets/tech/openai.svg" width="84" height="92" alt="OpenAI" title="OpenAI"/></a>&nbsp;
+  <a href="https://www.anthropic.com/claude" target="_blank"><img src="./assets/tech/claude.svg" width="84" height="92" alt="Claude" title="Claude"/></a>&nbsp;
+  <a href="https://deepmind.google/technologies/gemini/" target="_blank"><img src="./assets/tech/gemini.svg" width="84" height="92" alt="Gemini" title="Gemini"/></a>&nbsp;
+  <a href="https://cursor.com/" target="_blank"><img src="./assets/tech/cursor.svg" width="84" height="92" alt="Cursor" title="Cursor"/></a>&nbsp;
+  <a href="https://openai.com/codex/" target="_blank"><img src="./assets/tech/codex.svg" width="84" height="92" alt="Codex" title="Codex"/></a>
 </p>
 
-**AI Expertise:** OpenAI API integration · AI-powered applications · Intelligent workflows and agents · AI-assisted development · Business automation
+<p>
+  <strong>AI Expertise:</strong> OpenAI API Integration • AI-Powered Web Apps • Intelligent Workflows & Agents • AI-Assisted Development • Business Process Automation
+</p>
 
 ### Databases & ORM
-<p>
-  <a href="https://www.mongodb.com/"><img src="./assets/tech/mongodb.svg" width="72" alt="MongoDB" /></a>
-  <a href="https://www.mysql.com/"><img src="./assets/tech/mysql.svg" width="72" alt="MySQL" /></a>
-  <a href="https://firebase.google.com/"><img src="./assets/tech/firebase.svg" width="72" alt="Firebase" /></a>
-  <a href="https://www.prisma.io/"><img src="./assets/tech/prisma.svg" width="72" alt="Prisma" /></a>
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank"><img src="./assets/tech/mongodb.svg" width="84" height="92" alt="MongoDB" title="MongoDB"/></a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank"><img src="./assets/tech/mysql.svg" width="84" height="92" alt="MySQL" title="MySQL"/></a>&nbsp;
+  <a href="https://firebase.google.com/" target="_blank"><img src="./assets/tech/firebase.svg" width="84" height="92" alt="Firebase" title="Firebase"/></a>&nbsp;
+  <a href="https://www.prisma.io/" target="_blank"><img src="./assets/tech/prisma.svg" width="84" height="92" alt="Prisma" title="Prisma"/></a>
 </p>
 
 ### CMS, E-Commerce & Deployment
-<p>
-  <a href="https://www.shopify.com/"><img src="./assets/tech/shopify.svg" width="72" alt="Shopify" /></a>
-  <a href="https://wordpress.org/"><img src="./assets/tech/wordpress.svg" width="72" alt="WordPress" /></a>
-  <a href="https://vercel.com/"><img src="./assets/tech/vercel.svg" width="72" alt="Vercel" /></a>
-  <a href="https://railway.app/"><img src="./assets/tech/railway.svg" width="72" alt="Railway" /></a>
-  <a href="https://render.com/"><img src="./assets/tech/render.svg" width="72" alt="Render" /></a>
-  <a href="https://cpanel.net/"><img src="./assets/tech/cpanel.svg" width="72" alt="cPanel" /></a>
+<p align="left">
+  <a href="https://www.shopify.com/" target="_blank"><img src="./assets/tech/shopify.svg" width="84" height="92" alt="Shopify" title="Shopify"/></a>&nbsp;
+  <a href="https://wordpress.org/" target="_blank"><img src="./assets/tech/wordpress.svg" width="84" height="92" alt="WordPress" title="WordPress"/></a>&nbsp;
+  <a href="https://vercel.com/" target="_blank"><img src="./assets/tech/vercel.svg" width="84" height="92" alt="Vercel" title="Vercel"/></a>&nbsp;
+  <a href="https://railway.app/" target="_blank"><img src="./assets/tech/railway.svg" width="84" height="92" alt="Railway" title="Railway"/></a>&nbsp;
+  <a href="https://render.com/" target="_blank"><img src="./assets/tech/render.svg" width="84" height="92" alt="Render" title="Render"/></a>&nbsp;
+</a>&nbsp;
+  <a href="https://cpanel.net/" target="_blank"><img src="./assets/tech/cpanel.svg" width="84" height="92" alt="cPanel" title="cPanel"/></a>
 </p>
 
 ### Tools & Version Control
-<p>
-  <a href="https://git-scm.com/"><img src="./assets/tech/git.svg" width="72" alt="Git" /></a>
-  <a href="https://github.com/"><img src="./assets/tech/github.svg" width="72" alt="GitHub" /></a>
-  <a href="https://www.npmjs.com/"><img src="./assets/tech/npm.svg" width="72" alt="npm" /></a>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank"><img src="./assets/tech/git.svg" width="84" height="92" alt="Git" title="Git"/></a>&nbsp;
+  <a href="https://github.com/" target="_blank"><img src="./assets/tech/github.svg" width="84" height="92" alt="GitHub" title="GitHub"/></a>&nbsp;
+  <a href="https://www.npmjs.com/" target="_blank"><img src="./assets/tech/npm.svg" width="84" height="92" alt="npm" title="npm"/></a>
 </p>
 
 ---
 
-## 💡 Core Expertise
+<h2><img src="./assets/icons/expertise.svg" width="26" height="26" align="top" alt=""/>&nbsp;Core Expertise</h2>
 
-| Area | Technologies |
-|---|---|
-| Frontend Engineering | React.js, Next.js, Angular, TypeScript, Tailwind CSS |
-| Backend Engineering | Node.js, Express.js, Python, PHP, .NET |
-| API Architecture | REST APIs, integrations, microservices |
-| AI Integration | OpenAI API, custom AI agents, automation |
-| Database Architecture | MongoDB, MySQL, Firebase, Prisma ORM |
-| Cloud & Hosting | Vercel, Railway, Render, cPanel |
+| Capability Area | Applied Technologies |
+| :--- | :--- |
+| **Frontend Engineering** | React.js, Next.js, AngularJS, TypeScript, Tailwind CSS |
+| **Backend Engineering** | Node.js, Express.js, Python, PHP, .NET |
+| **API Architecture** | REST APIs, Backend Integrations, Microservices |
+| **AI Integration** | OpenAI API, Custom AI Agents, Automation Scripts |
+| **Database Architecture** | MongoDB, MySQL, Firebase, Prisma ORM |
+| **Cloud & Hosting** | Vercel, Railway, Render, cPanel |
 
 ---
 
-## 💼 Professional Experience
+<h2><img src="./assets/icons/experience.svg" width="26" height="26" align="top" alt=""/>&nbsp;Professional Experience</h2>
 
 ### Web Developer Intern — FortDice
-**Mar 2026 – Present · Karachi, Pakistan**
+**Mar 2026 – Present | Karachi, Pakistan**
 - Developing and maintaining modern web applications and business platforms.
-- Building responsive frontend interfaces and reusable components.
+- Building responsive frontend interfaces and reusable application components.
 - Contributing to enterprise software and business management solutions.
 - Working with APIs, integrations, and modern JavaScript technologies.
 
 ### Web Developer — TriTechTitan
-**Nov 2025 – Feb 2026 · Karachi, Pakistan**
+**Nov 2025 – Feb 2026 | Karachi, Pakistan**
 - Developed and maintained responsive web application features.
-- Worked on frontend development and UI improvements.
+- Worked on frontend development and user interface improvements.
 - Integrated application components with backend functionality.
-- Focused on clean code, usability, and maintainability.
+- Focused on clean code, usability, and maintainable development.
 
 ---
 
-## 🎓 Education
+<h2><img src="./assets/icons/education.svg" width="26" height="26" align="top" alt=""/>&nbsp;Education</h2>
 
-- **Advanced Diploma in Software Engineering (ADSE)** — Aptech Pakistan · 2024–2027
-- **Intermediate in Computer Science (ICS)** — GDC Ghazi Goth, Karachi · 2025–2027
+- **Advanced Diploma in Software Engineering (ADSE)** | Aptech Pakistan *(2024 – 2027)*
+- **Intermediate in Computer Science (ICS)** | GDC Ghazi Goth, Karachi *(2025 – 2027)*
 
 ---
 
-## 📊 GitHub Analytics
+<h2><img src="./assets/icons/analytics.svg" width="26" height="26" align="top" alt=""/>&nbsp;GitHub Analytics</h2>
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-21&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-21&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-
-<br />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Abdul-Rafay-21&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-21&show_icons=true&bg_color=FAFAFA&border_color=E4E4E7&border_radius=14&title_color=18181B&text_color=3F3F46&icon_color=6366F1" alt="GitHub Statistics"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-21&layout=compact&bg_color=FAFAFA&border_color=E4E4E7&border_radius=14&title_color=18181B&text_color=3F3F46&icon_color=6366F1" alt="Most Used Languages"/>
+  <br/><br/>
+  <img width="98%" src="https://streak-stats.demolab.com?user=Abdul-Rafay-21&background=FAFAFA&border=E4E4E7&stroke=E4E4E7&ring=6366F1&fire=6366F1&currStreakNum=18181B&currStreakLabel=6366F1&sideNums=18181B&sideLabels=3F3F46&dates=71717A&border_radius=14" alt="GitHub Contribution Streak"/>
 </div>
 
 ---
 
-## 🤝 Let's Connect
+<h2><img src="./assets/icons/connect.svg" width="26" height="26" align="top" alt=""/>&nbsp;Let's Connect</h2>
+
+<p align="center">
+  <a href="https://abdulrafay.runs-on.dev" target="_blank"><img src="./assets/badges/portfolio.svg" height="42" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/abdulrafaydeveloper" target="_blank"><img src="./assets/badges/linkedin.svg" height="42" alt="LinkedIn"/></a>
+  <a href="https://github.com/Abdul-Rafay-21" target="_blank"><img src="./assets/badges/github.svg" height="42" alt="GitHub"/></a>
+  <a href="https://www.instagram.com/rafaydev_/" target="_blank"><img src="./assets/badges/instagram.svg" height="42" alt="Instagram"/></a>
+  <a href="https://wa.me/923178711043" target="_blank"><img src="./assets/badges/whatsapp.svg" height="42" alt="WhatsApp"/></a>
+  <a href="mailto:rafy123459@gmail.com"><img src="./assets/badges/email.svg" height="42" alt="Email"/></a>
+</p>
 
 <div align="center">
-
-[![Portfolio](./assets/badges/portfolio.svg)](https://abdulrafay.runs-on.dev)
-[![LinkedIn](./assets/badges/linkedin.svg)](https://www.linkedin.com/in/abdulrafaydeveloper)
-[![GitHub](./assets/badges/github.svg)](https://github.com/Abdul-Rafay-21)
-[![Instagram](./assets/badges/instagram.svg)](https://www.instagram.com/rafaydev_/)
-[![WhatsApp](./assets/badges/whatsapp.svg)](https://wa.me/923178711043)
-[![Email](./assets/badges/email.svg)](mailto:rafy123459@gmail.com)
-
-### Building meaningful digital experiences through technology.
-
-<sub>© 2026 Abdul Rafay. All rights reserved.</sub>
-
+  <p><strong>Building meaningful digital experiences through technology.</strong></p>
+  <sub>© 2026 Abdul Rafay. All rights reserved.</sub>
 </div>
